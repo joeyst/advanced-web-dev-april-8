@@ -107,8 +107,7 @@ a {
 li {
   font-size: 42px;
   margin-left: 500px;
-  list-style-type: square;
-  display: inline;
+  list-style-type: ordered;
 }
 
 @media (prefers-color-scheme: dark) {
